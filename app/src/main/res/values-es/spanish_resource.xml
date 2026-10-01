@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pantalla sofisticada</string>
+    <string name="email">Correo electrónico</string>
+    <string name="direct_reports">Reportes directos</string>
+    <string name="department">departamento</string>
+    <string name="extension">Extensión</string>
+    <string name="supervisor">el supervisor</string>
+
+</resources>
